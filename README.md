@@ -1,2 +1,2 @@
 # AWS_Examples
-Repo that has AWS service examples.
+Repo that has AWS examples.
